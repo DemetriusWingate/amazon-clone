@@ -22,7 +22,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deply": "amazon-clone/amazon-clone -d build",
+    "deploy": "amazon-clone/amazon-clone -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
